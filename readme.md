@@ -13,3 +13,4 @@ This is my attempt to complete JavaScript30 course. You can join to this course 
  ## Solved tasks description
  1) Working with audio by adding global EventListener. Sound depends on a button you touched.
  2) Working with Date object and styles
+ 3) Working with CSS variables and HTML "data-..." attributes
