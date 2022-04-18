@@ -16,3 +16,4 @@ This is my attempt to complete JavaScript30 course. You can join to this course 
  3) Working with CSS variables and HTML "data-..." attributes;
  4) Some exercises in sort, reduce and filter methods;
  5) Working with flex attribute. Nice gallery, by the way;
+ 6) Working with fetch and regex to create nice search bar with highlighting;
